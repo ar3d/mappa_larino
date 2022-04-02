@@ -10,7 +10,7 @@ div.debug {
     z-index: 1;
     width: 100%;
     background-color: rgba(1, 1, 1, 0.2);
-    color: #ff7500;
+    color: #fffafa;
     font-size: 0.75em;
     padding: 0.5em;
     width: initial;
@@ -25,7 +25,7 @@ div.debug {
     width: 80%;
     margin: 1em;
     padding: 0.25em;
-    color: #d4cfcf;
+    color: #fffafa;
     font-size: 0.75em;
     text-align: center;
     background-color: white;
@@ -43,7 +43,7 @@ div.debug {
 #place-label > span {
     z-index: 99999;
     padding: 0.25em;
-    color: #d4cfcf;
+    color: #fffafa;
     text-align: center;
 	
 }
@@ -62,7 +62,7 @@ div.debug {
   -webkit-transform: translate(0%, 0%);
           transform: translate(0%, 0%);
   overflow: hidden;
-  color: #d4cfcf;
+  color: #fffafa;
   font-size: 20px;
   letter-spacing: 2.5px;
   text-align: center;
