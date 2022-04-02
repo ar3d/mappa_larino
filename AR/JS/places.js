@@ -69,8 +69,8 @@ function staticLoadPlaces() {
 		{
             name: "Episcopio",
             location: {
-                lat: 41.800420, // change here latitude if using static data
-                lng: 14.910763, // change here longitude if using static data
+                lat: 41.800878, // change here latitude if using static data
+                lng: 14.910433, // change here longitude if using static data
             },
 			look: "[gps-camera]",
 			image: "assets/map-marker_2.png",
