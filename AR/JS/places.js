@@ -52,7 +52,7 @@ function staticLoadPlaces() {
 			image: "assets/map-marker.png",
 			href: "",
 			sfondo: "assets/sfondi/san_francesco.jpg",
-			text: "La chiesa e l'annesso convento nascono agli inizi del XIV secolo ad opera dell'ordine francescano. Dell'originaria costruzione rimane poco in quanto nel dorso dei secoli l'edificio ha subito profonde modifiche."
+			text: "La chiesa e l'annesso convento nascono agli inizi del XIV secolo ad opera dell'ordine francescano. Dell'originaria costruzione rimane poco in quanto nel corso dei secoli l'edificio ha subito profonde modifiche."
         },
 		{
             name: "Palazzo ducale",
@@ -64,7 +64,7 @@ function staticLoadPlaces() {
 			image: "assets/map-marker_2.png",
 			href: "",
 			sfondo: "assets/sfondi/ducale.jpg",
-			text: "Il palazzo in origine era un castello. Fu la famiglia Di Sangro, divenuta feudataria di Larino nel 1683 che trasformò la fortificazione in palazzo gentilizio. Oltre al Comune il palazzo ospita anche il museo civico."
+			text: "Il palazzo in origine era un castello. Fu la famiglia Di Sangro, divenuta feudataria di Larino nel 1683, che trasformò la fortificazione in palazzo gentilizio. Oltre al Comune il palazzo ospita anche il museo civico."
         },
 		{
             name: "Episcopio",
@@ -76,7 +76,7 @@ function staticLoadPlaces() {
 			image: "assets/map-marker_2.png",
 			href: "",
 			sfondo: "assets/sfondi/episcopio.jpg",
-			text: "Il palazzo ha ospitato il primo seminiario della storia creato dal vescovo Belisario Balduino nel 1564. Oggi accoglie il MAB, cioè il museo, l'archivio e la bibioteca diocesani."
+			text: "Il palazzo ha ospitato il primo seminiario della storia ad opera del vescovo Belisario Balduino nel 1564. Oggi accoglie il MAB, cioè il museo, l'archivio e la bibioteca diocesani."
         },
     ];
 }
