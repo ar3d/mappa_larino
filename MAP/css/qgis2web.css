@@ -6,6 +6,91 @@
             text-align: left;
             vertical-align: top;
         }
+		
+				.centered {
+    height: 15%;
+    justify-content: center;
+    position: fixed;
+    bottom: 0%;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0px auto;
+    left: 0;
+    right: 0;
+	z-index: 999;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    background-color: transparent;
+    width: 2em;
+    height: 2em;
+    border-radius: 100%;
+    font-size: 2em;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    outline: none;
+}
+
+.immagine_btn {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	 border-radius: 100%;
+	 background-color: rgba(0, 0, 0, 0.4);
+	 outline: none;
+	}
+		
+		.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #292525;
+  font-size: 20px;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: #292525;
+  font-size: 15px;
+  text-decoration: none;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+.p3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: #292525;
+  font-size: 13px;
+  text-decoration: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: darkred;
+  font-size: 15px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.immagine {
+    width: 250px;
+	}
+		
         .info {
             padding: 6px 8px;
             font: 14px/16px Arial, Helvetica, sans-serif;
